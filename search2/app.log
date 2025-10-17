@@ -1,0 +1,47 @@
+2025-10-17 00:27:17,052 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.121:5000
+2025-10-17 00:27:17,052 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2025-10-17 00:27:17,054 INFO werkzeug MainThread :  * Restarting with stat
+2025-10-17 00:27:17,593 WARNING werkzeug MainThread :  * Debugger is active!
+2025-10-17 00:27:17,597 INFO werkzeug MainThread :  * Debugger PIN: 124-600-976
+2025-10-17 00:47:23,992 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.121:5000
+2025-10-17 00:47:23,992 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2025-10-17 00:47:23,994 INFO werkzeug MainThread :  * Restarting with stat
+2025-10-17 00:47:24,615 WARNING werkzeug MainThread :  * Debugger is active!
+2025-10-17 00:47:24,619 INFO werkzeug MainThread :  * Debugger PIN: 124-600-976
+2025-10-17 00:48:21,085 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [17/Oct/2025 00:48:21] "GET / HTTP/1.1" 200 -
+2025-10-17 00:48:21,106 INFO werkzeug Thread-3 (process_request_thread) : 127.0.0.1 - - [17/Oct/2025 00:48:21] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-10-17 00:48:21,111 INFO werkzeug Thread-4 (process_request_thread) : 127.0.0.1 - - [17/Oct/2025 00:48:21] "[33mGET /static/js/script.js HTTP/1.1[0m" 404 -
+2025-10-17 00:50:05,456 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.121:5000
+2025-10-17 00:50:05,456 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2025-10-17 00:50:05,458 INFO werkzeug MainThread :  * Restarting with stat
+2025-10-17 00:50:06,056 WARNING werkzeug MainThread :  * Debugger is active!
+2025-10-17 00:50:06,060 INFO werkzeug MainThread :  * Debugger PIN: 124-600-976
+2025-10-17 00:50:07,441 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [17/Oct/2025 00:50:07] "GET / HTTP/1.1" 200 -
+2025-10-17 00:50:07,480 INFO werkzeug Thread-3 (process_request_thread) : 127.0.0.1 - - [17/Oct/2025 00:50:07] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-10-17 00:50:07,482 INFO werkzeug Thread-4 (process_request_thread) : 127.0.0.1 - - [17/Oct/2025 00:50:07] "[33mGET /static/js/script.js HTTP/1.1[0m" 404 -
+2025-10-17 00:50:11,819 INFO werkzeug Thread-5 (process_request_thread) : 127.0.0.1 - - [17/Oct/2025 00:50:11] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-10-17 00:50:11,841 INFO werkzeug Thread-6 (process_request_thread) : 127.0.0.1 - - [17/Oct/2025 00:50:11] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-10-17 01:38:56,155 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.121:5000
+2025-10-17 01:38:56,155 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2025-10-17 01:38:56,157 INFO werkzeug MainThread :  * Restarting with stat
+2025-10-17 01:38:56,732 WARNING werkzeug MainThread :  * Debugger is active!
+2025-10-17 01:38:56,736 INFO werkzeug MainThread :  * Debugger PIN: 124-600-976
+2025-10-17 01:38:58,363 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [17/Oct/2025 01:38:58] "GET / HTTP/1.1" 200 -
+2025-10-17 01:38:58,399 INFO werkzeug Thread-3 (process_request_thread) : 127.0.0.1 - - [17/Oct/2025 01:38:58] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-10-17 01:38:58,566 INFO werkzeug Thread-5 (process_request_thread) : 127.0.0.1 - - [17/Oct/2025 01:38:58] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-10-17 01:38:58,567 INFO werkzeug Thread-4 (process_request_thread) : 127.0.0.1 - - [17/Oct/2025 01:38:58] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-10-17 01:39:03,013 INFO werkzeug Thread-6 (process_request_thread) : 127.0.0.1 - - [17/Oct/2025 01:39:03] "[35m[1mGET /api/search?q=manisa&start=1&type=&safe=active HTTP/1.1[0m" 500 -
+2025-10-17 01:41:05,602 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\Asus\\Desktop\\search2\\app2.py', reloading
+2025-10-17 01:41:05,669 INFO werkzeug MainThread :  * Restarting with stat
